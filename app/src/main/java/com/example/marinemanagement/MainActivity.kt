@@ -33,6 +33,7 @@ import com.example.marinemanagement.ui.theme.MarineManagementTheme
 
 enum class Pantalla { Inicio, Principal, Calendario }
 // Estas son las tres pantallas de la aplicación
+//test
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
